@@ -26,7 +26,7 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 
 
-  <a href="https://github.com/dkagh012" target="_blank">
+  <a href="https://www.instagram.com/jungtae0421/" target="_blank">
   <img alt="instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 
