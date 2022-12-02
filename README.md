@@ -17,7 +17,7 @@
 든든하고, 실력 있는 개발자를 꿈꾸는 배정태입니다.
 
 ```
-<h4>💬 Where to find me</h4>
+<h4>📬 Contacts</h4>
 <p>
   <a href="https://fir-vessel-121.notion.site/8dfb285c059a4942ab4df12bb23b974f" target="_blank">
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white" /></a>
@@ -41,25 +41,32 @@
 
 
 
-<h4>✏️ My stack </h4>
+<h4>✏️ Skils </h4>
 <span>
 <img src="https://img.shields.io/badge/HTML5-FFCA28?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-004088?style=flat-square&logo=CSS&logoColor=ffffff">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/Visual Studio-0094F5?style=flat-square&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+
 </span>
 
-
+<h4>💪tools</h4>
+<span>
+<img src="https://img.shields.io/badge/Visual Studio-0094F5?style=flat-square&logo=Visual Studio&logoColor=white">
+<img src="https://img.shields.io/badge/eclipse-0008ff?style=flat-square&logo=eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+</span>
 </br>
 
 
 
 📈 My github stats
 
-<p align="center"> <img align="center"src="https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=gotham" alt="dkagh012" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=gotham" alt="dkagh012" />
+  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkagh054)](https://solved.ac/dkagh054)
+
+</p>
