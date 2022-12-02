@@ -61,4 +61,5 @@
 📈 My github stats
 
 <p align="center"> <img align="center"src="https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=gotham" alt="dkagh012" /></p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkagh054)](https://solved.ac/dkagh054/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkagh054)](https://solved.ac/dkagh054)
