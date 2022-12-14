@@ -2,11 +2,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/61902400/205352489-1ea8d263-5124-4057-ab36-1f58b53428bf.PNG" width="300"/>
 
 <h4> 👔소개 </h4>
+
   ```ruby
  http://dkagh012.dothome.co.kr/ 
  현재 만들고 있는 사이트
   ```
-  ```ruby
+
   ```ruby
   
    1998년 04월 21일
@@ -14,6 +15,7 @@
    15사단 정보통신대대 하사 전역
    MBTI -> ESFP
   ```
+  
   ```ruby
 
 📢 꼼꼼하게 빈 틈을 채워나가는 개발자
