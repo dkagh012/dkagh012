@@ -1,6 +1,8 @@
 ### 프론트 엔드 개발자 배정태 입니다 👋
 <img align="left" src="https://user-images.githubusercontent.com/61902400/205352489-1ea8d263-5124-4057-ab36-1f58b53428bf.PNG" width="300"/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkagh012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h4> 👔소개 </h4>
 
   ```ruby
