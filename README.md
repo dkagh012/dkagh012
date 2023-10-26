@@ -47,8 +47,8 @@
 ## Top Open Source -
 
 
-[![Your GitHub stats](https://velog-readme-stats.vercel.app/api?name=dkagh012&repo=React)](https://github.com/dkagh012/React)
-)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/dkagh012?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
