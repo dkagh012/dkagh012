@@ -47,7 +47,7 @@
 ## Top Open Source -
 
 
-[![Your GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz&repo=React)](https://github.com/dkagh012/React)
+[![Your GitHub stats](https://velog-readme-stats.vercel.app/api?name=dkagh012&repo=React)](https://github.com/dkagh012/React)
 )
 
 <p align="left">
