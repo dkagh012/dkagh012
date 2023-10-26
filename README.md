@@ -46,8 +46,21 @@
 
 ## Top Open Source -
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=dkagh012&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dkagh012/React_project_front)
-
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@bi-sz">
+        <img src="https://img.shields.io/badge/
+        Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+    <a href="https://li-yo.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/
+ api?name=bi-sz)](https://github.com/bi-sz/velog-readme-stats)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+</div><br>
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -75,4 +88,3 @@
 </a>
 
 ![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
