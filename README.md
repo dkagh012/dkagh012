@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com) 
-<a href="https://komarev.com/ghpvc/?username=dkagh012">
-  <img align="right" src="https://komarev.com/ghpvc/?username=dkagh012&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+
+![header](https://[capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30](https://camo.githubusercontent.com/0c391b5545096b63cac7def5d0f2eb5c4c43260323d456c2689cc841d2bbdf09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74))
+
+![header](https://capsule-render.vercel.app/api?color=auto)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; 프론트엔드 개발자
