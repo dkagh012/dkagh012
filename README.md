@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkagh012&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
@@ -24,7 +25,7 @@
 
 ###
 
-<p align="left">저는 취미로 운동 하는것을 좋아하고<br><br>현재는 React로 프로젝트를 작업하고 있습니다.</p>
+<p align="center">반갑습니다!</br> 제 이름은 배정태이고 프론트 엔드 개발자로 작업을 하고 있습니다 </br> 현재 SI 개발사에서 프론트 엔드 개발자로 작업을 하고 있습니다 </p>
 
 ###
 
@@ -45,7 +46,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=Java&logoColor=white" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
@@ -55,6 +56,6 @@
 ###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkagh012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
