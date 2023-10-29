@@ -20,6 +20,8 @@
 취미로 운동을 좋아합니다.
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-da1e20?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=#005e86)
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
 ![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
