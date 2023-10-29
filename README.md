@@ -31,6 +31,8 @@
 <div align="center">
 <h3>Github Profile</h3>
 
+[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkagh012&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
 ![dkagh012's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=onedark&hide_border=true)
@@ -38,6 +40,5 @@
 </div>
 
 
-[![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
 
 
