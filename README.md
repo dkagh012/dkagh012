@@ -3,22 +3,21 @@
 ## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feomgerm&count_bg=%23FF5252&title_bg=%23535353&icon=&icon_color=%23E7E7E7&title=views&edge_flat=true)](https://hits.seeyoufarm.com)
-[![wakatime](https://wakatime.com/badge/user/2bc3057d-356c-4085-8a40-dcf77da7bb8a.svg?style=flat-square)](https://wakatime.com/@2bc3057d-356c-4085-8a40-dcf77da7bb8a)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlgns0705)](https://solved.ac/rlgns0705)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkagh012%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<samp>I'm Gihoon Eom from 🇰🇷 Republic of Korea. You can call me **Gihoon**! I'm Undergraduate Student of Computer Science & Engeenering of Kyunghee University. I'm studying hard to be a **Full Stack Developer**. I like *Front-End* things more, but I am also interested in *Back-End* and wanna be a expert of it. I'm always open to your contacts so do not hesitate! </samp>
+<samp> 안녕하세요. 저는 배정태입니다!
+저는 안동대학교 컴퓨터공학과를 졸업하고 현재 프론트엔드 개발자로 회사를 다니고 있습니다.
+현재는 기획자인 친형과 함께 프로젝트를 만들고 있으며, 이 프로젝트에서는 풀 스택으로 개발을 진행하려 합니다.
+저는 프론트엔드 작업을 더 좋아하지만 백엔드에도 관심이 있어 풀 스택 개발자로 성장하려고 노력하고 있습니다.
+궁금하신 점이 있으면 언제든지 메일로 연락 주세요! </samp>
 
-[![Instagram Badge](http://img.shields.io/badge/-Instagram-8134af?style=flat-square&logo=instagram&link=https://www.instagram.com/fb_26.55/)](https://www.instagram.com/fb_26.55/)
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@eomgerm)](https://velog.io/@eomgerm)
-[![Email](http://img.shields.io/badge/-fishbread00@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:fishbread00@gmail.com)](mailto:fishbread00@gmail.com)
+[![Email](http://img.shields.io/badge/-qowjdxo00@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:qowjdxo00@gmail.com)](mailto:qowjdxo00@gmail.com)
 ### 💁‍♂️ Who am I?
-- Undergraduate of Kyunghee Univ. <a href="https://www.khu.ac.kr/"><img src="./images/kyunghee.svg" width="20"></a>
-- Supporter of Queer Community 🏳️‍🌈
-- Pronouce: he/him 👨
-- Love to talking with strangers 💬
-- SUPER FAN OF KPOP 🎶
+안동대학교 컴퓨터공학과 학부 졸업 <br/>
+새로운 사람들과 대화하는것을 좋아합니다<br/>
+저는 노래를 듣는것 부르는것을 좋아하고 <br/>
+취미로 운동을 좋아합니다.
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
 ![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
@@ -32,19 +31,13 @@
 <div align="center">
 <h3>Github Profile</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomgerm&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkagh012&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
-![eomgerm's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomgerm&show_icons=true&theme=onedark&hide_border=true)
+![dkagh012's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkagh012&show_icons=true&theme=onedark&hide_border=true)
 
 </div>
 
-<div align="center">
-<h3>⌛ Coding Time ⌛</h3>
-
-[![eomgerm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eomgerm)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 [![Weather Badge](https://weather-badge.vercel.app/api/badge?lat=37.5666791&lon=126.9782914)](https://weather-badge.vercel.app//api/badge?lat=37.5666791&lon=126.9782914)
-
 
 
