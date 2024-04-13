@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97&desc=I%27m%20JungTae%20:%20%29&fontSize=60&fontAlignY=40&descSize=25&descAlignY=58&animation=fadeIn)
 
 ## Hi there ❗ <img src="./images/wave-hello.gif" height="30">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkagh012%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -20,9 +19,6 @@
 취미로 운동을 좋아합니다.
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-da1e20?style=flat-square&logo=Java&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=#005e86)
-![NodeJS](http://img.shields.io/badge/-Node.js-333?style=flat-square&logo=Node.js)
 ![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
