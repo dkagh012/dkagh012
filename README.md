@@ -4,19 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkagh012%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-<samp> 안녕하세요. 저는 배정태입니다!
-저는 안동대학교 컴퓨터공학과를 졸업하고 현재 프론트엔드 개발자로 회사를 다니고 있습니다.<br/>
-현재 INFLUDE  라는 프로젝트를 진행주며 이 프로젝트에서는 풀 스택으로 개발을 진행하려 합니다.<br/>
-저는 프론트엔드 작업을 더 좋아하지만 백엔드에도 관심이 있어 풀 스택 개발자로 성장하려고 노력하고 있습니다.<br/>
-궁금하신 점이 있으면 언제든지 메일로 연락 주세요! </samp>
-
-[![Email](http://img.shields.io/badge/-qowjdxo00@gmail.com-4885ed?style=flat-square&logo=gmail&link=mailto:qowjdxo00@gmail.com)](mailto:qowjdxo00@gmail.com)
-### 💁‍♂️ Who am I?
-안동대학교 컴퓨터공학과 학부 졸업 <br/>
-새로운 사람들과 대화하는것을 좋아합니다<br/>
-저는 노래를 듣는것 부르는것을 좋아하고 <br/>
-취미로 운동을 좋아합니다.
 ### ⚡ My Tech Stacks
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
 ![React](http://img.shields.io/badge/-React-20232a?style=flat-square&logo=React)
