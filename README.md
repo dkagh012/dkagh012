@@ -9,7 +9,7 @@
 ![HTML5](http://img.shields.io/badge/-HTML5-f06529?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](http://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-cc6699?style=flat-square&logo=SCSS)
-![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white) 
 ![Github](http://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
 
 <div align="center">
