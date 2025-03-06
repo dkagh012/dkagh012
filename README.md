@@ -12,7 +12,7 @@
 
 <div align="center">
 
- 배정태(Bae Jeongtae, ベク ジョンテ)&nbsp;&nbsp; <b>Front-End Developer</b><br/><br/>
+ 배정태(Bae Jeongtae, ペ・ジョンテ)&nbsp;&nbsp; <b>Front-End Developer</b><br/><br/>
 
  <!--
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayannne&count_bg=%23a888f7&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
