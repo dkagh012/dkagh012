@@ -84,5 +84,5 @@ ${latestPosts}
 `;
 
   writeFileSync("README.md", readmeContent, "utf8");
-  console.log("README 업데이트 완료!");
+  console.log("README 업데이트 완료");
 })();
